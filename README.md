@@ -9,11 +9,13 @@ Different ways to use it.
 Automatic methods are urls that you can go to in order to access Multi-Frames. The official methods should be automatically deployed. 
 
 #### Official links
-* [W3Schools](https://multi-frames.w3spaces.com/)
+* [Cloudflare](https://multi-frames.theveryoilydill.workers.dev/)
+* [Vercel (most likely blocked)](https://multi-frames.vercel.app/)
 
 #### In Development/Consideration
 There is no guarentee that these methods are updated or work.
 
+* [**W3Schools (most likely to work)**](https://multi-frames.w3spaces.com/)
 * [Codesandbox](https://githubbox.com/theveryoilydill/Multi-Frames/)
 * [Codesandbox Direct](https://gnwfrj.csb.app/)
 * [Html Preview](https://htmlpreview.github.io/?https://github.com/theveryoilydill/Multi-Frames/blob/main/index.html)
